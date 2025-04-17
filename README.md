@@ -13,7 +13,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -21,7 +20,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -29,7 +27,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -37,7 +34,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
@@ -45,7 +41,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -53,7 +48,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="React Native" 
     title="React Native"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -61,7 +55,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
@@ -69,7 +62,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -77,7 +69,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="Sass"
     title="Sass" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
@@ -85,7 +76,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="Three.js" 
     title="Three.js"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" 
 />
 <img 
@@ -93,7 +83,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="Node.js" 
     title="Node.js"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
@@ -101,7 +90,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -110,18 +98,13 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
 
 ### 📊 Estatísticas
 
-<p align="left">
+<div align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dominiquecampitelli&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquecampitelli&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
