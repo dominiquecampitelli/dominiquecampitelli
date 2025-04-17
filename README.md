@@ -118,12 +118,10 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dominiquecampitelli&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquecampitelli&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquecampitelli&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-
 </p>
