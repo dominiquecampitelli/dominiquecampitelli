@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Java mas me descobri apaixonado por front-end e web design. Tenho o propósito de utilizar a programação para criar projetos que possam causar impacto na sociedade de forma revolucionária socialmente.
+I am a developer who is passionate about interfaces. I started my career studying Java but found myself passionate about front-end and web design. My goal is to use programming to create projects that can have a revolutionary impact on society.
 
 ---
 
@@ -99,10 +99,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
 ### 📊 Estatísticas
 
 <div align="left">
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=dominiquecampitelli&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
-  />
   <img 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquecampitelli&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
