@@ -110,7 +110,7 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -122,6 +122,6 @@ Sou um desenvolvedor apaixonado por interfaces, iniciei a carreira estudando Jav
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquecampitelli&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquecampitelli&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
