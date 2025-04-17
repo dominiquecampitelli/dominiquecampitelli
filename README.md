@@ -6,7 +6,7 @@ I am a developer who is passionate about interfaces. I started my career studyin
 
 ---
 
-### :handbag: Linguagens e Tecnologias
+### :handbag: Languages and Tools
 
 <img 
     align="left" 
@@ -96,7 +96,7 @@ I am a developer who is passionate about interfaces. I started my career studyin
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <div align="left">
   <img 
